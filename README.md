@@ -9,7 +9,7 @@ Setup:
   sudo apt-get install openjdk-7-jdk
 
 Build:
-    ant all
+    ant
 
 Run:
   ant run
