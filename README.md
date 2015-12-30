@@ -4,7 +4,9 @@ NESDevStudio
 Java NES Development tools
 
 Setup:
-  Install ant and have it able to be run in your PATH
+  Install ant and have it able to be run in your PATH.
+  If you are using ubuntu you may get the error that tools.jar is missing, you need to make sure you have installed openjdk:
+  sudo apt-get install openjdk-7-jdk
 
 Build:
     ant all
